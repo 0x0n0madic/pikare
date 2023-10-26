@@ -8,5 +8,5 @@ MarkupSafe==2.1.1
 mysql-connector-python==8.0.29
 protobuf==3.20.1
 pycryptodome
-Werkzeug==2.1.2
+Werkzeug==3.0.1
 zipp==3.8.0
